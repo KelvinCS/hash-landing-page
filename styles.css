@@ -41,16 +41,16 @@ body {
 }
 
 .bg-squares__1 {
-  background-image: url("./L1_BLACK.png");
+  background-image: url("assets/L1_BLACK.png");
 }
 .bg-squares__2 {
-  background-image: url("./L2_BLUE.png");
+  background-image: url("assets/L2_BLUE.png");
 }
 .bg-squares__3 {
-  background-image: url("./L3_BLACK.png");
+  background-image: url("assets/L3_BLACK.png");
 }
 .bg-squares__4 {
-  background-image: url("./L4_WHITE.png");
+  background-image: url("assets/L4_WHITE.png");
 }
 
 /* .content__section:nth-of-type(2n) {
