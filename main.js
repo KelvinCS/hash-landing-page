@@ -125,7 +125,7 @@ function startScrollSnapping(steps) {
 
       const percentageOfScroll = getPercentage(currentStep, nextStep, scroll);
 
-      const newPosition = percentageOfScroll > 50 ? nextStep : currentStep;
+      const newPosition = percentageOfScroll > 90 ? nextStep : currentStep;
 
       clearTimeout(timer);
       timer = setTimeout(
